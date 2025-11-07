@@ -1,7 +1,7 @@
 
 # Chatgpt Exporter
 
-A custom Chrome extension I packaged. 🚀  
+A custom Chrome extension I made. 🚀  
 Dark-themed, lightweight, and ready to roll.  
 
 ---
